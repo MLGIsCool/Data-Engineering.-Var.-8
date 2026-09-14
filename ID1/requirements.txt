@@ -1,0 +1,1 @@
+Библиотеки: lxml, requests, bs4, beautifulsoup4, datetime, os, pandas, numpy, python-dateutill, logging, PyYAML, backoff

@@ -1,0 +1,19 @@
+url: "https://nice-case.ru/catalog/elektronika_1/"
+max_items: 20
+headers:
+  User-Agent: "Mozilla/5.0"
+
+paths:
+  base_dir: "."
+  data_dir: "data"
+  logs_dir: "logs"
+  errors_log: "scraper_errors.log"
+  quality_log: "quality_alerts.log"
+
+csv_filename: "Ответ_Задание_2_1_УКОЛОВ.csv"
+
+retry:
+  max_tries: 3
+
+request:
+  timeout: 10
