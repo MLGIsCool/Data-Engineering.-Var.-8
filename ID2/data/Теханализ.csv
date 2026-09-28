@@ -1,0 +1,101 @@
+﻿pair_id,name,tech_rating_1d,ma_rating,osc_rating,rsi,mom,cci,macd_level,macd_signal
+AEDAUD,U.A.E. DIRHAM / AUSTRALIAN DOLLAR,Покупать,Покупать,Продавать,64.87,0.00622,0.00435,147.02,92.8
+AEDBRX,U.A.E. DIRHAM / BRAZILIAN REAL REFERENCE RATE,Активно покупать,Активно покупать,Покупать,59.42,0.0293,0.0006,131.65,88.79
+AEDCAD,U.A.E. DIRHAM / CANADIAN DOLLAR,Покупать,Активно покупать,Нейтрально,73.71,0.00713,0.00551,135.41,97.32
+AEDCHF,U.A.E. DIRHAM / SWISS FRANC,Активно покупать,Активно покупать,Покупать,71.84,0.00396,0.00343,136.44,93.38
+AEDEUR,U.A.E. DIRHAM / EURO,Покупать,Активно покупать,Продавать,73.37,0.00387,0.00337,124.42,93.08
+AEDGBP,U.A.E. DIRHAM / BRITISH POUND,Покупать,Активно покупать,Продавать,66.9,0.00355,0.00331,116.99,88.8
+AEDHKD,U.A.E. DIRHAM / HONG KONG DOLLAR,Активно покупать,Активно покупать,Покупать,55.94,0.0002,0.0003,74.51,46.11
+AEDINR,U.A.E. DIRHAM / INDIAN RUPEE,Покупать,Активно покупать,Нейтрально,57.13,0.027,0.106,72.61,81.91
+AEDJPY,U.A.E. DIRHAM / JAPANESE YEN,Продавать,Продавать,Нейтрально,49.39,0.764,0.07,38.8,78.23
+AEDKRW,U.A.E. DIRHAM / SOUTH KOREAN WON,Продавать,Активно продавать,Нейтрально,42.98,3.17,3.18,4.09,42.72
+AEDKWD,U.A.E. DIRHAM / KUWAITI DINAR,Покупать,Покупать,Нейтрально,50.55,2.1e-05,7.2e-05,28.87,67.32
+AEDLKR,U.A.E. DIRHAM / SRI LANKAN RUPEE,Покупать,Активно покупать,Покупать,55.22,0.518,0.048,86.25,55.3
+AEDMAD,U.A.E. DIRHAM / MOROCCAN DIRHAM,Покупать,Активно покупать,Нейтрально,83.56,0.0485,0.0575,130.43,92.76
+AEDMUR,U.A.E. DIRHAM / MAURITIAN RUPEE,Покупать,Покупать,Нейтрально,54.92,0.0813,0.1769,72.32,57.44
+AEDMYX,U.A.E. DIRHAM / MALAYSIAN RINGGIT REFERENCE RATE,Активно покупать,Активно покупать,Покупать,58.29,0.004749,0.003966,82.57,63.76
+AEDNOK,U.A.E. DIRHAM / NORWEGIAN KRONE,Покупать,Покупать,Продавать,65.26,0.0526,0.0327,126.56,92.03
+AEDNZD,U.A.E. DIRHAM / NEW ZEALAND DOLLAR,Покупать,Активно покупать,Продавать,70.56,0.00897,0.01266,106.91,93.97
+AEDOMR,U.A.E. DIRHAM / OMANI RIAL,Покупать,Активно покупать,Продавать,52.7,1e-05,0.0,30.05,25.0
+AEDPKR,U.A.E. DIRHAM / PAKISTANI RUPEE,Продавать,Активно продавать,Нейтрально,37.16,0.049,0.061,128.74,1.28
+AEDQAR,U.A.E. DIRHAM / QATARI RIAL,Продавать,Активно продавать,Нейтрально,47.54,0.0001,0.0002,56.87,6.83
+AEDSAR,U.A.E. DIRHAM / SAUDI ARABIAN RIYAL,Продавать,Активно продавать,Нейтрально,44.02,0.0004,0.0,83.33,9.09
+AEDSEK,U.A.E. DIRHAM / SWEDISH KRONA,Покупать,Активно покупать,Нейтрально,74.36,0.0544,0.0687,109.91,92.17
+AEDSGD,U.A.E. DIRHAM / SINGAPORE DOLLAR,Нейтрально,Покупать,Нейтрально,57.11,0.00184,0.00132,85.88,83.04
+AEDSGX,U.A.E. DIRHAM / SGX,Нейтрально,Покупать,Продавать,57.99,0.25,0.1328,92.99,93.33
+AEDTHX,U.A.E. DIRHAM / THAI BAHT REFERENCE RATE,Покупать,Активно покупать,Продавать,61.13,0.0807,0.0721,113.5,99.28
+AEDTRY,U.A.E. DIRHAM / TURKISH LIRA,Покупать,Активно покупать,Продавать,92.44,0.09608,0.14581,122.49,96.77
+AEDUSD,U.A.E. DIRHAM / U.S. DOLLAR,Покупать,Покупать,Покупать,50.14,1e-05,0.0,148.78,20.35
+AEDXDR,U.A.E. DIRHAM / SPECIAL DRAWING RIGHT,Активно покупать,Активно покупать,Покупать,67.58,0.002041,0.00049,222.82,100.0
+AEDZAR,U.A.E. DIRHAM / SOUTH AFRICAN RAND,Покупать,Активно покупать,Нейтрально,57.79,0.041,0.049,104.13,79.15
+AFNBRX,AFGHAN AFGHANI / BRAZILIAN REAL REFERENCE RATE,Покупать,Активно покупать,Нейтрально,57.82,0.00111,9e-05,92.64,66.94
+AFNUSD,AFGHAN AFGHANI / U.S. DOLLAR,Активно продавать,Активно продавать,Продавать,34.66,0.000152,2.8e-05,192.7,0.0
+ALLBRX,ALBANIAN LEK / BRAZILIAN REAL REFERENCE RATE,Покупать,Покупать,Нейтрально,50.48,0.0001,0.0005,29.91,22.76
+ALLUSD,ALBANIAN LEK / U.S. DOLLAR,Продавать,Нейтрально,Продавать,45.92,0.000134,5.7e-05,178.08,7.46
+AMDBRX,ARMENIAN DRAM / BRAZILIAN REAL REFERENCE RATE,Активно покупать,Активно покупать,Покупать,58.03,0.00039,2.6e-05,131.53,91.67
+AOABRX,ANGOLAN KWANZA / BRAZILIAN REAL REFERENCE RATE,Активно покупать,Активно покупать,Покупать,58.45,0.0001,0.0,131.16,88.52
+AOAUSD,ANGOLAN KWANZA / U.S. DOLLAR,Продавать,Активно продавать,Покупать,40.83,0.0,0.0,41.67,0.0
+ARSBRL,ARGENTINE PESO / BRAZILIAN REAL,Покупать,Покупать,Нейтрально,52.91,1e-05,2e-05,90.49,76.19
+ARSBRX,ARGENTINE PESO / BRAZILIAN REAL REFERENCE RATE,Нейтрально,Нейтрально,Нейтрально,50.85,4e-05,3e-05,45.68,69.95
+ARSEUR,ARGENTINE PESO / EURO,Покупать,Покупать,Нейтрально,59.14,0.0,0.0,85.21,100.0
+ARSGBP,ARGENTINE PESO / BRITISH POUND,Продавать,Продавать,Нейтрально,51.46,0.0,0.0,56.22,69.7
+ARSJPY,ARGENTINE PESO / JAPANESE YEN,Активно продавать,Активно продавать,Продавать,40.74,0.001,0.001,1.21,58.33
+ARSPLX,ARGENTINE PESO / POLISH ZLOTY REFERENCE RATE,Покупать,Покупать,Покупать,69.87,0.0,0.0,121.65,100.0
+ARSUSD,ARGENTINE PESO / U.S. DOLLAR,Продавать,Активно продавать,Нейтрально,27.77,1e-05,1e-05,238.46,5.04
+AUDAED,AUSTRALIAN DOLLAR / U.A.E. DIRHAM,Продавать,Активно продавать,Нейтрально,35.18,0.0421,0.0294,144.15,3.52
+AUDAMD,AUSTRALIAN DOLLAR / ARMENIAN DRAM,Продавать,Активно продавать,Нейтрально,30.57,5.63,3.456,169.42,0.28
+AUDARS,AUSTRALIAN DOLLAR / ARGENTINE PESO,Нейтрально,Нейтрально,Нейтрально,47.09,5.3115,4.4597,90.9,17.28
+AUDAWG,AUSTRALIAN DOLLAR / ARUBAN FLORIN,Активно продавать,Активно продавать,Продавать,32.42,0.035,0.015,191.77,12.78
+AUDBAM,AUSTRALIAN DOLLAR / BOSNIAN CONVERTIBLE MARKA,Продавать,Нейтрально,Продавать,46.59,0.00427,0.004691,120.22,25.14
+AUDBBD,AUSTRALIAN DOLLAR / BARBADIAN DOLLAR,Продавать,Активно продавать,Нейтрально,35.13,0.0229,0.016,144.65,3.34
+AUDBHD,AUSTRALIAN DOLLAR / BAHRAINI DINAR,Продавать,Активно продавать,Нейтрально,35.93,0.0044,0.0031,145.84,4.39
+AUDBMD,AUSTRALIAN DOLLAR / BERMUDIAN DOLLAR,Продавать,Активно продавать,Нейтрально,35.19,0.0114,0.008,144.22,3.56
+AUDBOB,AUSTRALIAN DOLLAR / BOLIVIAN BOLIVIANO,Активно покупать,Активно покупать,Покупать,54.11,0.2392,0.107,14.54,72.51
+AUDBRL,AUSTRALIAN DOLLAR / BRAZILIAN REAL,Покупать,Активно покупать,Нейтрально,51.82,0.0145,0.0356,42.45,43.26
+AUDBRX,AUSTRALIAN DOLLAR / BRAZILIAN REAL REFERENCE RATE,Покупать,Покупать,Нейтрально,49.87,0.0047,0.0371,43.71,24.83
+AUDBSD,AUSTRALIAN DOLLAR / BAHAMIAN DOLLAR,Продавать,Активно продавать,Нейтрально,35.79,0.0116,0.0081,146.57,3.98
+AUDBWP,AUSTRALIAN DOLLAR / BOTSWANAN PULA,Нейтрально,Продавать,Нейтрально,44.96,0.0373,0.0099,137.29,2.62
+AUDBZD,AUSTRALIAN DOLLAR / BELIZEAN DOLLAR,Продавать,Активно продавать,Нейтрально,35.67,0.0233,0.0163,147.41,3.87
+AUDCAD,AUSTRALIAN DOLLAR / CANADIAN DOLLAR,Активно покупать,Активно покупать,Нейтрально,53.89,0.00285,0.003008,10.51,30.2
+AUDCAX,AUSTRALIAN DOLLAR / CAX,Покупать,Покупать,Нейтрально,51.92,0.0009,0.0042,18.54,28.67
+AUDCHF,AUSTRALIAN DOLLAR / SWISS FRANC,Покупать,Активно покупать,Нейтрально,59.47,0.00143,0.002449,25.0,31.22
+AUDCLP,AUSTRALIAN DOLLAR / CHILEAN PESO,Покупать,Активно покупать,Продавать,61.08,2.13,9.12,84.44,55.2
+AUDCNH,AUSTRALIAN DOLLAR / OFFSHORE CHINESE YUAN,Продавать,Активно продавать,Нейтрально,32.42,0.0739,0.0595,129.65,4.08
+AUDCNY,AUSTRALIAN DOLLAR / CHINESE YUAN,Продавать,Активно продавать,Покупать,33.91,0.0748,0.0614,134.33,5.53
+AUDCOP,AUSTRALIAN DOLLAR / COLOMBIAN PESO,Покупать,Покупать,Нейтрально,65.39,119.3,66.8,161.48,87.56
+AUDCRC,AUSTRALIAN DOLLAR / COSTA RICAN COLON,Продавать,Активно продавать,Нейтрально,45.93,0.76,2.8,67.29,20.38
+AUDCZK,AUSTRALIAN DOLLAR / CZECH KORUNA,Покупать,Активно покупать,Нейтрально,59.62,0.067,0.13,40.36,49.14
+AUDCZX,AUSTRALIAN DOLLAR / CZECH KORUNA REFERENCE RATE,Нейтрально,Покупать,Продавать,53.13,0.002,0.145,13.29,53.18
+AUDDKK,AUSTRALIAN DOLLAR / DANISH KRONE,Покупать,Покупать,Нейтрально,52.27,0.0003,0.0121,64.95,20.53
+AUDDKX,AUSTRALIAN DOLLAR / DKX,Продавать,Нейтрально,Продавать,46.64,0.0164,0.0186,119.17,25.52
+AUDDOP,AUSTRALIAN DOLLAR / DOMINICAN PESO,Нейтрально,Продавать,Нейтрально,46.25,0.41,0.133,108.24,15.34
+AUDEGP,AUSTRALIAN DOLLAR / EGYPTIAN POUND,Покупать,Покупать,Нейтрально,51.55,0.295,0.0365,81.27,26.18
+AUDERN,AUSTRALIAN DOLLAR / ERITERIAN NAKFA,Продавать,Активно продавать,Нейтрально,35.66,0.197,0.119,155.87,1.01
+AUDEUR,AUSTRALIAN DOLLAR / EURO,Покупать,Покупать,Нейтрально,52.23,0.0,0.0016,65.84,18.82
+AUDFJD,AUSTRALIAN DOLLAR / FIJIAN DOLLAR,Продавать,Продавать,Нейтрально,45.25,0.0058,0.0018,153.55,14.15
+AUDGBP,AUSTRALIAN DOLLAR / BRITISH POUND,Нейтрально,Покупать,Нейтрально,49.27,0.0006,0.0026,68.87,29.56
+AUDGEL,AUSTRALIAN DOLLAR / GEORGIAN LARI,Активно продавать,Активно продавать,Продавать,30.31,0.038,0.015,178.88,2.81
+AUDGHS,AUSTRALIAN DOLLAR / GHANAIAN CEDI,Покупать,Активно покупать,Нейтрально,54.63,0.0059,0.0913,15.85,18.21
+AUDGIP,AUSTRALIAN DOLLAR / GIBRALTAR POUND,Покупать,Покупать,Нейтрально,49.4,0.00069,0.00258,73.43,38.71
+AUDGTQ,AUSTRALIAN DOLLAR / GUATEMALAN QUETZAL,Продавать,Активно продавать,Нейтрально,36.9,0.0825,0.0572,143.26,3.2
+AUDHKD,AUSTRALIAN DOLLAR / HONG KONG DOLLAR,Продавать,Продавать,Покупать,37.13,0.08668,0.0631,152.17,6.27
+AUDHNL,AUSTRALIAN DOLLAR / HONDURAN LEMPIRA,Продавать,Продавать,Покупать,36.82,0.304,0.2,148.39,4.33
+AUDHUF,AUSTRALIAN DOLLAR / HUNGARIAN FORINT,Активно покупать,Активно покупать,Нейтрально,59.62,0.91,0.91,80.26,64.52
+AUDHUX,AUSTRALIAN DOLLAR / HUNGARIAN FORINT REFERENCE RATE,Активно покупать,Активно покупать,Нейтрально,57.02,0.6,0.85,77.86,61.28
+AUDIDR,AUSTRALIAN DOLLAR / INDONESIAN RUPIAH,Покупать,Активно покупать,Нейтрально,50.58,23.8,47.2,46.15,34.14
+AUDILS,AUSTRALIAN DOLLAR / ISRAELI SHEKEL,Покупать,Активно покупать,Нейтрально,54.27,0.0175,0.0053,58.51,20.78
+AUDINR,AUSTRALIAN DOLLAR / INDIAN RUPEE,Нейтрально,Продавать,Покупать,39.2,1.022,0.4968,145.49,6.35
+AUDISK,AUSTRALIAN DOLLAR / ICELANDIC KRONA,Продавать,Активно продавать,Нейтрально,28.91,1.853,1.448,176.25,8.38
+AUDISX,AUSTRALIAN DOLLAR / ICELANDIC KRONA REFERENCE RATE,Активно продавать,Активно продавать,Продавать,20.35,2.16,1.22,273.84,0.0
+AUDJMD,AUSTRALIAN DOLLAR / JAMAICAN DOLLAR,Продавать,Продавать,Нейтрально,39.15,1.755,1.514,104.74,25.76
+AUDJOD,AUSTRALIAN DOLLAR / JORDANIAN DINAR,Продавать,Активно продавать,Нейтрально,35.46,0.0082,0.0057,148.43,3.87
+AUDJPY,AUSTRALIAN DOLLAR / JAPANESE YEN,Активно продавать,Активно продавать,Продавать,37.31,0.295,1.092,77.68,34.89
+AUDKES,AUSTRALIAN DOLLAR / KENYAN SHILLING,Продавать,Продавать,Покупать,37.18,1.401,0.995,147.24,6.2
+AUDKRW,AUSTRALIAN DOLLAR / SOUTH KOREAN WON,Продавать,Активно продавать,Нейтрально,33.79,7.16,18.86,143.29,4.73
+AUDKWD,AUSTRALIAN DOLLAR / KUWAITI DINAR,Продавать,Продавать,Нейтрально,33.53,0.0035,0.0024,142.01,4.29
+AUDKYD,AUSTRALIAN DOLLAR / CAYMANIAN DOLLAR,Продавать,Активно продавать,Нейтрально,35.24,0.0093,0.0067,146.93,4.3
+AUDLKR,AUSTRALIAN DOLLAR / SRI LANKAN RUPEE,Нейтрально,Продавать,Покупать,36.15,2.23,2.42,144.77,14.22
+AUDMAD,AUSTRALIAN DOLLAR / MOROCCAN DIRHAM,Покупать,Активно покупать,Нейтрально,60.16,0.0165,0.074,42.57,42.52
+AUDMGA,AUSTRALIAN DOLLAR / MALAGASY ARIARY,Покупать,Покупать,Нейтрально,52.11,16.9,12.6,54.32,27.47
+AUDMOP,AUSTRALIAN DOLLAR / MACAU PATACA,Продавать,Активно продавать,Нейтрально,32.23,0.124,0.041,212.47,6.78
+AUDMXN,AUSTRALIAN DOLLAR / MEXICAN PESO,Активно покупать,Активно покупать,Нейтрально,76.53,0.2795,0.1905,221.16,91.07
